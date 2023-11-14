@@ -725,14 +725,14 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 [ Menu mobile ]*/
 .menu-mobile {
   width: 100%;
-  background-color: white;
+  background-color: #eae9e5;
   display: none;
 }
 
 .main-menu-m {
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color: #a9a5a5;
+  background-color: #eae9e5;
 }
 
 .main-menu-m > li > a {
